@@ -25,7 +25,15 @@ export default function IndexPage() {
 						<div className="grid grid-cols-1 gap-4 md:mt-24 lg:grid-cols-2">
 							<div className="flex flex-col">
 								<h1 className="font-extrabold leading-none md:leading-tight" style={{ fontSize: "3rem" }}>
-									Test Test Tes Test Test <br className="sm:hidden" />
+									Play <br className="sm:hidden" />
+									<span className="text-discord-blurple">Truth</span> or <span className="text-discord-red">Dare</span>{" "}
+									<br className="" />
+									in your{" "}
+									<span className="text-discord-blurple">
+										<br className="sm:hidden" />
+										Discord
+									</span>{" "}
+									server!
 								</h1>
 								<div className="my-4 text-2xl text-gray-800 dark:text-gray-100 md:text-3xl">
 									Featuring <b>thousands</b> of questions and used in over <b>half a million</b> communities.
