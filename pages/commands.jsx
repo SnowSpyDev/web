@@ -32,7 +32,7 @@ export default function IndexPage() {
 	return (
 		<div>
 			<OpenGraph
-				title="Vex Network - Bot Commands"
+				title="Truth or Dare Bot - Commands"
 				description="Need help with commands? Here's a list of Truth or Dare Bot's slash commands and how to fix commands not working properly."
 			/>
 			<div className="mt-24 flex flex-col pb-8 md:pb-32">
